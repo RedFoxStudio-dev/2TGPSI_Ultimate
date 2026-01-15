@@ -1,0 +1,28 @@
+C:\Users\Paulo Marques\Documents\Visual Studio 2013\Projects\WindowsForms\Ex40-Freguesias\Ex40-Freguesias\bin\Debug\Ex40-Freguesias.exe.config
+C:\Users\Paulo Marques\Documents\Visual Studio 2013\Projects\WindowsForms\Ex40-Freguesias\Ex40-Freguesias\obj\Debug\Ex40-Freguesias.csprojResolveAssemblyReference.cache
+C:\Users\Paulo Marques\Documents\Visual Studio 2013\Projects\WindowsForms\Ex40-Freguesias\Ex40-Freguesias\obj\Debug\Ex40_Freguesias.Form1.resources
+C:\Users\Paulo Marques\Documents\Visual Studio 2013\Projects\WindowsForms\Ex40-Freguesias\Ex40-Freguesias\obj\Debug\Ex40_Freguesias.Properties.Resources.resources
+C:\Users\Paulo Marques\Documents\Visual Studio 2013\Projects\WindowsForms\Ex40-Freguesias\Ex40-Freguesias\obj\Debug\Ex40-Freguesias.csproj.GenerateResource.Cache
+C:\Users\Paulo Marques\Documents\Visual Studio 2013\Projects\WindowsForms\Ex40-Freguesias\Ex40-Freguesias\bin\Debug\Ex40-Freguesias.exe
+C:\Users\Paulo Marques\Documents\Visual Studio 2013\Projects\WindowsForms\Ex40-Freguesias\Ex40-Freguesias\bin\Debug\Ex40-Freguesias.pdb
+C:\Users\Paulo Marques\Documents\Visual Studio 2013\Projects\WindowsForms\Ex40-Freguesias\Ex40-Freguesias\obj\Debug\Ex40-Freguesias.exe
+C:\Users\Paulo Marques\Documents\Visual Studio 2013\Projects\WindowsForms\Ex40-Freguesias\Ex40-Freguesias\obj\Debug\Ex40-Freguesias.pdb
+C:\Users\capel\MEOCloud\Livros\Curso Prático de Programaçã​o em C#\Exercicios\WindowsForms\Ex40-Freguesias\Ex40-Freguesias\bin\Debug\Ex40-Freguesias.exe.config
+C:\Users\capel\MEOCloud\Livros\Curso Prático de Programaçã​o em C#\Exercicios\WindowsForms\Ex40-Freguesias\Ex40-Freguesias\obj\Debug\Ex40-Freguesias.exe
+C:\Users\capel\MEOCloud\Livros\Curso Prático de Programaçã​o em C#\Exercicios\WindowsForms\Ex40-Freguesias\Ex40-Freguesias\obj\Debug\Ex40-Freguesias.pdb
+C:\Users\capel\MEOCloud\Livros\Curso Prático de Programaçã​o em C#\Exercicios\WindowsForms\Ex40-Freguesias\Ex40-Freguesias\bin\Debug\Ex40-Freguesias.exe
+C:\Users\capel\MEOCloud\Livros\Curso Prático de Programaçã​o em C#\Exercicios\WindowsForms\Ex40-Freguesias\Ex40-Freguesias\bin\Debug\Ex40-Freguesias.pdb
+C:\Users\capel\MEOCloud\Livros\Curso Prático de Programaçã​o em C#\Exercicios\WindowsForms\Ex40-Freguesias\Ex40-Freguesias\obj\Debug\Ex40-Freguesias.csprojResolveAssemblyReference.cache
+C:\Users\capel\MEOCloud\Livros\Curso Prático de Programaçã​o em C#\Exercicios\WindowsForms\Ex40-Freguesias\Ex40-Freguesias\obj\Debug\Ex40_Freguesias.Form1.resources
+C:\Users\capel\MEOCloud\Livros\Curso Prático de Programaçã​o em C#\Exercicios\WindowsForms\Ex40-Freguesias\Ex40-Freguesias\obj\Debug\Ex40_Freguesias.Properties.Resources.resources
+C:\Users\capel\MEOCloud\Livros\Curso Prático de Programaçã​o em C#\Exercicios\WindowsForms\Ex40-Freguesias\Ex40-Freguesias\obj\Debug\Ex40-Freguesias.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\2122 - ESCCB\2122 - 2PSI\2122 - M11 - POOA - A FAZER\2122 - Resolução FT1 - M11 - Ficheiros_Streams\Ex02-Freguesias\Ex40-Freguesias\bin\Debug\Ex40-Freguesias.exe.config
+C:\Users\Asus\Documents\2122 - ESCCB\2122 - 2PSI\2122 - M11 - POOA - A FAZER\2122 - Resolução FT1 - M11 - Ficheiros_Streams\Ex02-Freguesias\Ex40-Freguesias\bin\Debug\Ex40-Freguesias.exe
+C:\Users\Asus\Documents\2122 - ESCCB\2122 - 2PSI\2122 - M11 - POOA - A FAZER\2122 - Resolução FT1 - M11 - Ficheiros_Streams\Ex02-Freguesias\Ex40-Freguesias\bin\Debug\Ex40-Freguesias.pdb
+C:\Users\Asus\Documents\2122 - ESCCB\2122 - 2PSI\2122 - M11 - POOA - A FAZER\2122 - Resolução FT1 - M11 - Ficheiros_Streams\Ex02-Freguesias\Ex40-Freguesias\obj\Debug\Ex40-Freguesias.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\2122 - ESCCB\2122 - 2PSI\2122 - M11 - POOA - A FAZER\2122 - Resolução FT1 - M11 - Ficheiros_Streams\Ex02-Freguesias\Ex40-Freguesias\obj\Debug\Ex40_Freguesias.Form1.resources
+C:\Users\Asus\Documents\2122 - ESCCB\2122 - 2PSI\2122 - M11 - POOA - A FAZER\2122 - Resolução FT1 - M11 - Ficheiros_Streams\Ex02-Freguesias\Ex40-Freguesias\obj\Debug\Ex40_Freguesias.Properties.Resources.resources
+C:\Users\Asus\Documents\2122 - ESCCB\2122 - 2PSI\2122 - M11 - POOA - A FAZER\2122 - Resolução FT1 - M11 - Ficheiros_Streams\Ex02-Freguesias\Ex40-Freguesias\obj\Debug\Ex40-Freguesias.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\2122 - ESCCB\2122 - 2PSI\2122 - M11 - POOA - A FAZER\2122 - Resolução FT1 - M11 - Ficheiros_Streams\Ex02-Freguesias\Ex40-Freguesias\obj\Debug\Ex40-Freguesias.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\2122 - ESCCB\2122 - 2PSI\2122 - M11 - POOA - A FAZER\2122 - Resolução FT1 - M11 - Ficheiros_Streams\Ex02-Freguesias\Ex40-Freguesias\obj\Debug\Ex40-Freguesias.exe
+C:\Users\Asus\Documents\2122 - ESCCB\2122 - 2PSI\2122 - M11 - POOA - A FAZER\2122 - Resolução FT1 - M11 - Ficheiros_Streams\Ex02-Freguesias\Ex40-Freguesias\obj\Debug\Ex40-Freguesias.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Odernacao do Vetor M10/1.0.0": {
+        "runtime": {
+          "Odernacao do Vetor M10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Odernacao do Vetor M10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

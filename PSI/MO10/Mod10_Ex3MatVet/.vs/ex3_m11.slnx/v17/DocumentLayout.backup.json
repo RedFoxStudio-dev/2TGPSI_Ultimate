@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Guilherme\\psi\\Mod10_Ex3MatVet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89C7C85F-981E-41E5-2675-1C0D04265D33}|ex3_m11\\ex3_m11.csproj|c:\\users\\guilherme\\psi\\mod10_ex3matvet\\ex3_m11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C7C85F-981E-41E5-2675-1C0D04265D33}|ex3_m11\\ex3_m11.csproj|solutionrelative:ex3_m11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C7C85F-981E-41E5-2675-1C0D04265D33}|ex3_m11\\ex3_m11.csproj|C:\\Users\\Guilherme\\psi\\Mod10_Ex3MatVet\\ex3_m11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89C7C85F-981E-41E5-2675-1C0D04265D33}|ex3_m11\\ex3_m11.csproj|solutionrelative:ex3_m11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\psi\\Mod10_Ex3MatVet\\ex3_m11\\Form1.cs",
+              "RelativeDocumentMoniker": "ex3_m11\\Form1.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\psi\\Mod10_Ex3MatVet\\ex3_m11\\Form1.cs",
+              "RelativeToolTip": "ex3_m11\\Form1.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAUwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T13:33:18.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\psi\\Mod10_Ex3MatVet\\ex3_m11\\Form1.cs",
+              "RelativeDocumentMoniker": "ex3_m11\\Form1.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\psi\\Mod10_Ex3MatVet\\ex3_m11\\Form1.cs [Projeto]",
+              "RelativeToolTip": "ex3_m11\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-01-12T13:32:59.856Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

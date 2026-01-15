@@ -1,0 +1,16 @@
+C:\Users\atomi\source\repos\Odernacao do Vetor M10\Odernacao do Vetor M10\bin\Debug\net8.0-windows\Odernacao do Vetor M10.exe
+C:\Users\atomi\source\repos\Odernacao do Vetor M10\Odernacao do Vetor M10\bin\Debug\net8.0-windows\Odernacao do Vetor M10.deps.json
+C:\Users\atomi\source\repos\Odernacao do Vetor M10\Odernacao do Vetor M10\bin\Debug\net8.0-windows\Odernacao do Vetor M10.runtimeconfig.json
+C:\Users\atomi\source\repos\Odernacao do Vetor M10\Odernacao do Vetor M10\bin\Debug\net8.0-windows\Odernacao do Vetor M10.dll
+C:\Users\atomi\source\repos\Odernacao do Vetor M10\Odernacao do Vetor M10\bin\Debug\net8.0-windows\Odernacao do Vetor M10.pdb
+C:\Users\atomi\source\repos\Odernacao do Vetor M10\Odernacao do Vetor M10\obj\Debug\net8.0-windows\Odernacao_do_Vetor_M10.Form1.resources
+C:\Users\atomi\source\repos\Odernacao do Vetor M10\Odernacao do Vetor M10\obj\Debug\net8.0-windows\Odernacao do Vetor M10.csproj.GenerateResource.cache
+C:\Users\atomi\source\repos\Odernacao do Vetor M10\Odernacao do Vetor M10\obj\Debug\net8.0-windows\Odernacao do Vetor M10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atomi\source\repos\Odernacao do Vetor M10\Odernacao do Vetor M10\obj\Debug\net8.0-windows\Odernacao do Vetor M10.AssemblyInfoInputs.cache
+C:\Users\atomi\source\repos\Odernacao do Vetor M10\Odernacao do Vetor M10\obj\Debug\net8.0-windows\Odernacao do Vetor M10.AssemblyInfo.cs
+C:\Users\atomi\source\repos\Odernacao do Vetor M10\Odernacao do Vetor M10\obj\Debug\net8.0-windows\Odernacao do Vetor M10.csproj.CoreCompileInputs.cache
+C:\Users\atomi\source\repos\Odernacao do Vetor M10\Odernacao do Vetor M10\obj\Debug\net8.0-windows\Odernacao do Vetor M10.dll
+C:\Users\atomi\source\repos\Odernacao do Vetor M10\Odernacao do Vetor M10\obj\Debug\net8.0-windows\refint\Odernacao do Vetor M10.dll
+C:\Users\atomi\source\repos\Odernacao do Vetor M10\Odernacao do Vetor M10\obj\Debug\net8.0-windows\Odernacao do Vetor M10.pdb
+C:\Users\atomi\source\repos\Odernacao do Vetor M10\Odernacao do Vetor M10\obj\Debug\net8.0-windows\Odernacao do Vetor M10.genruntimeconfig.cache
+C:\Users\atomi\source\repos\Odernacao do Vetor M10\Odernacao do Vetor M10\obj\Debug\net8.0-windows\ref\Odernacao do Vetor M10.dll
