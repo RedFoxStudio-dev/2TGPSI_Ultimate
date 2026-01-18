@@ -1,0 +1,16 @@
+C:\Users\espec\source\repos\exercicio1_m11\exercicio1_m11\obj\Debug\net10.0-windows\exercicio1_m11.Form1.resources
+C:\Users\espec\source\repos\exercicio1_m11\exercicio1_m11\obj\Debug\net10.0-windows\exercicio1_m11.csproj.GenerateResource.cache
+C:\Users\espec\source\repos\exercicio1_m11\exercicio1_m11\obj\Debug\net10.0-windows\exercicio1_m11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\espec\source\repos\exercicio1_m11\exercicio1_m11\obj\Debug\net10.0-windows\exercicio1_m11.AssemblyInfoInputs.cache
+C:\Users\espec\source\repos\exercicio1_m11\exercicio1_m11\obj\Debug\net10.0-windows\exercicio1_m11.AssemblyInfo.cs
+C:\Users\espec\source\repos\exercicio1_m11\exercicio1_m11\obj\Debug\net10.0-windows\exercicio1_m11.csproj.CoreCompileInputs.cache
+C:\Users\espec\source\repos\exercicio1_m11\exercicio1_m11\bin\Debug\net10.0-windows\exercicio1_m11.exe
+C:\Users\espec\source\repos\exercicio1_m11\exercicio1_m11\bin\Debug\net10.0-windows\exercicio1_m11.deps.json
+C:\Users\espec\source\repos\exercicio1_m11\exercicio1_m11\bin\Debug\net10.0-windows\exercicio1_m11.runtimeconfig.json
+C:\Users\espec\source\repos\exercicio1_m11\exercicio1_m11\bin\Debug\net10.0-windows\exercicio1_m11.dll
+C:\Users\espec\source\repos\exercicio1_m11\exercicio1_m11\bin\Debug\net10.0-windows\exercicio1_m11.pdb
+C:\Users\espec\source\repos\exercicio1_m11\exercicio1_m11\obj\Debug\net10.0-windows\exercicio1_m11.dll
+C:\Users\espec\source\repos\exercicio1_m11\exercicio1_m11\obj\Debug\net10.0-windows\refint\exercicio1_m11.dll
+C:\Users\espec\source\repos\exercicio1_m11\exercicio1_m11\obj\Debug\net10.0-windows\exercicio1_m11.pdb
+C:\Users\espec\source\repos\exercicio1_m11\exercicio1_m11\obj\Debug\net10.0-windows\exercicio1_m11.genruntimeconfig.cache
+C:\Users\espec\source\repos\exercicio1_m11\exercicio1_m11\obj\Debug\net10.0-windows\ref\exercicio1_m11.dll
