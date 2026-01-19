@@ -1,0 +1,76 @@
+/*cabeçalho*/
+
+header{
+    background-color: #333; /*fun do cinza escuro*/
+    color: white;/*texto branco*/
+    padding: 20px;/*espaco interno de 20px*/
+    text-align: center;/*centraliza o texto*/
+}
+
+/*Menu de navegacao*/
+
+nav ul{
+    list-style: none;/*Remove os marcadores da lista*/
+    display: flex;/*Organiza os itens em linha*/
+    justify-content: center;/*centraliza horizontalmente*/
+    gap: 20px;/*espaco entre os itens do menu*/
+    padding: 0; /*Remove o padding padrao da lista*/
+}
+
+
+nav ul li a{
+    text-decoration: none; /*Remove sublinado dos links*/
+    color:white;/*Cor branca para o links*/
+    font-weight: bold;/*Negrito*/
+}
+
+/*secao de artigos*/
+section article{
+    border: 1px solid; /*Boda cinza clara*/
+    padding:10px; /*Espaco interno dentro do artigo*/
+    margin:10px 0; /*Espaco acima e abaixo do artigo*/
+}
+
+/*Rodape*/
+footer{
+    background-color:#333;/*Fundo cinza escuro*/
+    color:white;/*texto branco*/
+    text-align: center;/*centraliza o texto*/
+    padding: 10px;/*Espaco interno*/
+}
+
+/*Containeir do header usado flexbox */
+
+header{
+    display: flex; /*Ativa o flexbox*/
+    justify-content: space-between;/*Espaco entre elementos*/
+    align-items: center;/*Alinha verticalmente*/
+     background-color: #333; /*fun do cinza escuro*/
+    color: white;/*texto branco*/
+    padding: 20px;/*Espaco interno da caixa*/
+}
+
+
+/*logo do site*/
+
+header h1{
+    margin: 0; /*Remove margem padrao do h1*/
+}
+
+/*menu de navegacao*/
+
+nav ul{
+    list-style:none;/*Remove os marcadores de lista*/
+    display:flex;/*Colca os itens em linha*/
+    gap: 15px;/*Espaco entre os links*/
+    margin: 0;/*Remove margens padrao*/
+    padding: 0;/*Remove padding padrao*/
+}
+
+
+
+
+
+
+
+
