@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Utilizador\\source\\repos\\Contadores\\Contadores\\Contadores.csproj",
+      "projectUniqueName": "C:\\Users\\Utilizador\\source\\repos\\2TGPSI_Ultimate\\PSI\\MO11\\Mod11_Ex3\\Contadores\\Contadores.csproj",
       "projectName": "Contadores",
-      "projectPath": "C:\\Users\\Utilizador\\source\\repos\\Contadores\\Contadores\\Contadores.csproj",
+      "projectPath": "C:\\Users\\Utilizador\\source\\repos\\2TGPSI_Ultimate\\PSI\\MO11\\Mod11_Ex3\\Contadores\\Contadores.csproj",
       "packagesPath": "C:\\Users\\Utilizador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Utilizador\\source\\repos\\Contadores\\Contadores\\obj\\",
+      "outputPath": "C:\\Users\\Utilizador\\source\\repos\\2TGPSI_Ultimate\\PSI\\MO11\\Mod11_Ex3\\Contadores\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,7 +52,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -76,7 +76,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

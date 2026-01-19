@@ -70,6 +70,7 @@
             // 
             Column3.HeaderText = "Data";
             Column3.Name = "Column3";
+            Column3.Width = 200;
             // 
             // Column4
             // 

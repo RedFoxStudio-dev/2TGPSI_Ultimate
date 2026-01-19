@@ -22,7 +22,7 @@ namespace Contadores
         {
             double gas, eletricidade, agua;
 
-            if (cboMes.SelectedIndex == -1 && cboAno.SelectedIndex != -1)
+            if (cboMes.Text != "" && cboAno.Text != "")
             {
                 bool validar = double.TryParse(txtGas.Text, out gas);
                 if (validar == true)
