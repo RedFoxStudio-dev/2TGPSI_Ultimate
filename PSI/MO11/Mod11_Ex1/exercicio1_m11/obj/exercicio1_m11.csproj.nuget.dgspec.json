@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Guilherme\\Downloads\\exercicio1_m11\\exercicio1_m11\\exercicio1_m11\\exercicio1_m11.csproj": {}
+    "C:\\src\\dart\\bin\\ultimate\\PSI\\MO11\\Mod11_Ex1\\exercicio1_m11\\exercicio1_m11.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Guilherme\\Downloads\\exercicio1_m11\\exercicio1_m11\\exercicio1_m11\\exercicio1_m11.csproj": {
+    "C:\\src\\dart\\bin\\ultimate\\PSI\\MO11\\Mod11_Ex1\\exercicio1_m11\\exercicio1_m11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Guilherme\\Downloads\\exercicio1_m11\\exercicio1_m11\\exercicio1_m11\\exercicio1_m11.csproj",
+        "projectUniqueName": "C:\\src\\dart\\bin\\ultimate\\PSI\\MO11\\Mod11_Ex1\\exercicio1_m11\\exercicio1_m11.csproj",
         "projectName": "exercicio1_m11",
-        "projectPath": "C:\\Users\\Guilherme\\Downloads\\exercicio1_m11\\exercicio1_m11\\exercicio1_m11\\exercicio1_m11.csproj",
+        "projectPath": "C:\\src\\dart\\bin\\ultimate\\PSI\\MO11\\Mod11_Ex1\\exercicio1_m11\\exercicio1_m11.csproj",
         "packagesPath": "C:\\Users\\Guilherme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Guilherme\\Downloads\\exercicio1_m11\\exercicio1_m11\\exercicio1_m11\\obj\\",
+        "outputPath": "C:\\src\\dart\\bin\\ultimate\\PSI\\MO11\\Mod11_Ex1\\exercicio1_m11\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

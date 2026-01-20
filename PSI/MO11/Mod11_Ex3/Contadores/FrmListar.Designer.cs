@@ -49,50 +49,64 @@
             dgvRegistos.Columns.AddRange(new DataGridViewColumn[] { Column1, Column2, Column3, Column4, Column5, Column6 });
             dgvRegistos.Dock = DockStyle.Fill;
             dgvRegistos.Location = new Point(0, 0);
+            dgvRegistos.Margin = new Padding(3, 4, 3, 4);
             dgvRegistos.Name = "dgvRegistos";
             dgvRegistos.RowHeadersVisible = false;
-            dgvRegistos.Size = new Size(800, 450);
+            dgvRegistos.RowHeadersWidth = 51;
+            dgvRegistos.Size = new Size(914, 600);
             dgvRegistos.TabIndex = 0;
+            dgvRegistos.CellContentClick += dgvRegistos_CellContentClick;
             // 
             // Column1
             // 
             Column1.HeaderText = "Mês";
+            Column1.MinimumWidth = 6;
             Column1.Name = "Column1";
+            Column1.Width = 125;
             // 
             // Column2
             // 
             Column2.FillWeight = 50F;
             Column2.HeaderText = "Ano";
+            Column2.MinimumWidth = 6;
             Column2.Name = "Column2";
             Column2.Width = 50;
             // 
             // Column3
             // 
             Column3.HeaderText = "Data";
+            Column3.MinimumWidth = 6;
             Column3.Name = "Column3";
             Column3.Width = 200;
             // 
             // Column4
             // 
             Column4.HeaderText = "Gás";
+            Column4.MinimumWidth = 6;
             Column4.Name = "Column4";
+            Column4.Width = 125;
             // 
             // Column5
             // 
             Column5.HeaderText = "Eletricidade";
+            Column5.MinimumWidth = 6;
             Column5.Name = "Column5";
+            Column5.Width = 125;
             // 
             // Column6
             // 
             Column6.HeaderText = "Água";
+            Column6.MinimumWidth = 6;
             Column6.Name = "Column6";
+            Column6.Width = 125;
             // 
             // FrmListar
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(914, 600);
             Controls.Add(dgvRegistos);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "FrmListar";
             Text = "FrmListar";
             ((System.ComponentModel.ISupportInitialize)dgvRegistos).EndInit();

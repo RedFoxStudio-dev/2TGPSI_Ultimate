@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Contadores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d31638bb139eda55fdb957c5072337dc9406edc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7b6b29c5fddaa657b68e1f02e60cb11e00d4572")]
 [assembly: System.Reflection.AssemblyProductAttribute("Contadores")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Contadores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

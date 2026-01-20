@@ -16,5 +16,10 @@ namespace Contadores
         {
             InitializeComponent();
         }
+
+        private void dgvRegistos_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
