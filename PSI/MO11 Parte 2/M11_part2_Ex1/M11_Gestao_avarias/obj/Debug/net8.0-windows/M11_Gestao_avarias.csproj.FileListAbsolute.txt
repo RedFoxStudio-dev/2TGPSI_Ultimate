@@ -1,0 +1,16 @@
+C:\Users\atomi\source\repos\M11_Gestao_avarias\M11_Gestao_avarias\bin\Debug\net8.0-windows\M11_Gestao_avarias.exe
+C:\Users\atomi\source\repos\M11_Gestao_avarias\M11_Gestao_avarias\bin\Debug\net8.0-windows\M11_Gestao_avarias.deps.json
+C:\Users\atomi\source\repos\M11_Gestao_avarias\M11_Gestao_avarias\bin\Debug\net8.0-windows\M11_Gestao_avarias.runtimeconfig.json
+C:\Users\atomi\source\repos\M11_Gestao_avarias\M11_Gestao_avarias\bin\Debug\net8.0-windows\M11_Gestao_avarias.dll
+C:\Users\atomi\source\repos\M11_Gestao_avarias\M11_Gestao_avarias\bin\Debug\net8.0-windows\M11_Gestao_avarias.pdb
+C:\Users\atomi\source\repos\M11_Gestao_avarias\M11_Gestao_avarias\obj\Debug\net8.0-windows\M11_Gestao_avarias.Form1.resources
+C:\Users\atomi\source\repos\M11_Gestao_avarias\M11_Gestao_avarias\obj\Debug\net8.0-windows\M11_Gestao_avarias.csproj.GenerateResource.cache
+C:\Users\atomi\source\repos\M11_Gestao_avarias\M11_Gestao_avarias\obj\Debug\net8.0-windows\M11_Gestao_avarias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atomi\source\repos\M11_Gestao_avarias\M11_Gestao_avarias\obj\Debug\net8.0-windows\M11_Gestao_avarias.AssemblyInfoInputs.cache
+C:\Users\atomi\source\repos\M11_Gestao_avarias\M11_Gestao_avarias\obj\Debug\net8.0-windows\M11_Gestao_avarias.AssemblyInfo.cs
+C:\Users\atomi\source\repos\M11_Gestao_avarias\M11_Gestao_avarias\obj\Debug\net8.0-windows\M11_Gestao_avarias.csproj.CoreCompileInputs.cache
+C:\Users\atomi\source\repos\M11_Gestao_avarias\M11_Gestao_avarias\obj\Debug\net8.0-windows\M11_Gestao_avarias.dll
+C:\Users\atomi\source\repos\M11_Gestao_avarias\M11_Gestao_avarias\obj\Debug\net8.0-windows\refint\M11_Gestao_avarias.dll
+C:\Users\atomi\source\repos\M11_Gestao_avarias\M11_Gestao_avarias\obj\Debug\net8.0-windows\M11_Gestao_avarias.pdb
+C:\Users\atomi\source\repos\M11_Gestao_avarias\M11_Gestao_avarias\obj\Debug\net8.0-windows\M11_Gestao_avarias.genruntimeconfig.cache
+C:\Users\atomi\source\repos\M11_Gestao_avarias\M11_Gestao_avarias\obj\Debug\net8.0-windows\ref\M11_Gestao_avarias.dll
