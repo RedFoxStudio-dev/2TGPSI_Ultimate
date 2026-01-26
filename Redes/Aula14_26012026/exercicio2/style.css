@@ -1,0 +1,126 @@
+/*cabeçalho*/
+
+header{
+    background-color: #333; /*fun do cinza escuro*/
+    color: white;/*texto branco*/
+    padding: 20px;/*espaco interno de 20px*/
+    text-align: center;/*centraliza o texto*/
+}
+
+/*Menu de navegacao*/
+
+nav ul{
+    list-style: none;/*Remove os marcadores da lista*/
+    display: flex;/*Organiza os itens em linha*/
+    justify-content: center;/*centraliza horizontalmente*/
+    gap: 20px;/*espaco entre os itens do menu*/
+    padding: 0; /*Remove o padding padrao da lista*/
+}
+
+
+nav ul li a{
+    text-decoration: none; /*Remove sublinado dos links*/
+    color:white;/*Cor branca para o links*/
+    font-weight: bold;/*Negrito*/
+}
+
+/*secao de artigos*/
+section article{
+    border: 1px solid; /*Boda cinza clara*/
+    padding:10px; /*Espaco interno dentro do artigo*/
+    margin:10px 0; /*Espaco acima e abaixo do artigo*/
+}
+
+/*Rodape*/
+footer{
+    background-color:#333;/*Fundo cinza escuro*/
+    color:white;/*texto branco*/
+    text-align: center;/*centraliza o texto*/
+    padding: 10px;/*Espaco interno*/
+}
+
+.destaque{
+    background-color: #f0f8ff;
+    border:2px solid #00008B;/*Borda aul escura*/
+}
+
+
+
+/*Containeir do header usado flexbox */
+
+header{
+    display: flex; /*Ativa o flexbox*/
+    justify-content: space-between;/*Espaco entre elementos*/
+    align-items: center;/*Alinha verticalmente*/
+     background-color: #333; /*fun do cinza escuro*/
+    color: white;/*texto branco*/
+    padding: 20px;/*Espaco interno da caixa*/
+}
+
+
+/*logo do site*/
+
+header h1{
+    margin: 0; /*Remove margem padrao do h1*/
+}
+
+/*menu de navegacao*/
+
+nav ul{
+    list-style:none;/*Remove os marcadores de lista*/
+    display:flex;/*Colca os itens em linha*/
+    gap: 15px;/*Espaco entre os links*/
+    margin: 0;/*Remove margens padrao*/
+    padding: 0;/*Remove padding padrao*/
+}
+
+
+/*Links do menu*/
+
+nav ul li a{
+    color:white;
+    
+text-align: none;
+    font-weight: bold;
+    padding: 5px 10px; /*espaço interno nos links*/
+    border-radius: 5px; /*bordas arredondadas*/
+}
+
+/*efeito hoiver nos links*/
+nav ul li a:hover{
+    background-color: #555;     /*fundo cinza escuro ao passar o mouse*/
+}
+
+/*seçao principal com box model*/
+section{
+    display: flex;  /*flexbox para os artigos*/
+    flex-wrap: wrap;    /*permite quebra de linha*/
+    gap:20px;   /*espaço entre os artigos*/
+    padding: 10px;  /*espaço interno do container*/
+}
+
+/*cada artigo*/
+section article{
+                border: 1px solid #ccc; /*borda*/
+                padding: 15px;  /*espaço interno*/
+                margin: o;      /*margem externa removida*/
+                flex: 1 1 200px;    /*cresce, encolhe, largura mínima 200px*/
+}
+
+/*seçao principal com css grid*/
+section{
+    display: grid;      /*ativa grid*/
+    grid-template-columns: repeat(3,1fr);/*cria 3 colunas iguais*/
+    gap:20px;       /*espaço entre linhas e colunas*/
+    padding: 10px;/*Espaco interno da secao*/
+}
+
+/*Cada artigo dentro da grid*/
+
+section article{
+
+    border:1px solid#ccc;/*Borda clara cinza*/
+    padding:15px;/*Espaco interno*/
+    background-color: #f9f9f9;/*Fundo leve para destacar*/
+    border-radius:5px;/*bordas arredondadas*/
+}

@@ -1,0 +1,34 @@
+/*Estilo para o cabeçalho principal*/
+h1{
+    color:darkblue;/*Cor do texto*/
+    text-align: center;/*centralizar o texto horizontalmente*/
+}
+
+/*Estilo para paragrafos*/
+
+p{
+    font-size: 18px;/*Tamanho de letra*/
+    color: gray; /*cor do texto*/
+    line-height: 1.5;/*Espaçamento entre linhas*/
+}
+
+
+
+
+.destaque{
+    color: red;
+    font-weight: bold;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
