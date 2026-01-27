@@ -1,0 +1,12 @@
+C:\Users\User\OneDrive\Documentos\Registos de Visitas_Ex2\Registos de Visitas_Ex2\bin\Debug\Registos de Visitas_Ex2.exe.config
+C:\Users\User\OneDrive\Documentos\Registos de Visitas_Ex2\Registos de Visitas_Ex2\bin\Debug\Registos de Visitas_Ex2.exe
+C:\Users\User\OneDrive\Documentos\Registos de Visitas_Ex2\Registos de Visitas_Ex2\bin\Debug\Registos de Visitas_Ex2.pdb
+C:\Users\User\OneDrive\Documentos\Registos de Visitas_Ex2\Registos de Visitas_Ex2\obj\Debug\Registos de Visitas_Ex2.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documentos\Registos de Visitas_Ex2\Registos de Visitas_Ex2\obj\Debug\Registos_de_Visitas_Ex2.Form1.resources
+C:\Users\User\OneDrive\Documentos\Registos de Visitas_Ex2\Registos de Visitas_Ex2\obj\Debug\Registos_de_Visitas_Ex2.Properties.Resources.resources
+C:\Users\User\OneDrive\Documentos\Registos de Visitas_Ex2\Registos de Visitas_Ex2\obj\Debug\Registos de Visitas_Ex2.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documentos\Registos de Visitas_Ex2\Registos de Visitas_Ex2\obj\Debug\Registos de Visitas_Ex2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Registos de Visitas_Ex2\Registos de Visitas_Ex2\obj\Debug\Registos de Visitas_Ex2.exe
+C:\Users\User\OneDrive\Documentos\Registos de Visitas_Ex2\Registos de Visitas_Ex2\obj\Debug\Registos de Visitas_Ex2.pdb
+C:\Users\User\OneDrive\Documentos\Registos de Visitas_Ex2\Registos de Visitas_Ex2\obj\Debug\Registos de Visitas_Ex2.exe.config
+C:\Users\User\OneDrive\Documentos\Registos de Visitas_Ex2\Registos de Visitas_Ex2\obj\Debug\Registos_de_Visitas_Ex2.frmConsulta.resources
